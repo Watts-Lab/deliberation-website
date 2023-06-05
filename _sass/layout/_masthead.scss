@@ -1,0 +1,112 @@
+// Styling for the masthead
+header.masthead {
+  height: 100vh;
+  text-align: center;
+  color: white;
+  // background-image: url("#{$header-image}");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  .intro-text {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    .intro-lead-in {
+      font-size: 22px;
+      line-height: 22px;
+      margin-bottom: 25px;
+      @include serif-font;
+    }
+    .intro-heading {
+      font-size: 50px;
+      font-weight: 700;
+      line-height: 50px;
+      margin-bottom: 25px;
+      @include heading-font;
+    }
+  }
+}
+@media (min-width: 768px) {
+  header.masthead {
+    .intro-text {
+      padding-top: 300px;
+      padding-bottom: 200px;
+      .intro-lead-in {
+        color: $primary;
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 25px;
+        @include serif-font;
+      }
+      .intro-heading {
+        font-size: 75px;
+        color: $wharton-red;
+        font-weight: 700;
+        line-height: 75px;
+        margin-bottom: 50px;
+        @include heading-font;
+      }
+    }
+  }
+}
+
+.color-bar {
+  width: 100%;
+  height: 20px;
+  display: flex;
+  gap: 7px;
+  position: absolute;
+  bottom: 0;
+}
+
+.bar-first {
+  padding: 0 5px 0 5px;
+  background-color: $wharton-gray;
+  width: 12%;
+  height: 100%;
+}
+
+.bar-second {
+  background-color: $wharton-red;
+  width: 12%;
+  height: 100%;
+}
+
+.bar-third {
+  background-color: $wharton-blue;
+  width: 6%;
+  height: 100%;
+}
+
+.bar-fourth {
+  padding: 0 5px 0 5px;
+  background-color: $primary;
+  width: 70%;
+  height: 100%;
+}
+
+.watermark {
+  position: absolute;
+  height: 60vh;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+}
+
+
+.philosopher-img {
+  border-radius: 8px;
+  width: 100%;
+}
+
+.researcher-right-red {
+  padding: 40px;
+  background-color: $wharton-red;
+  height: 280px;
+  width: 100%;
+  color: white;
+}
+
+.researcher-right-red p {
+  font-size: 20px;
+}

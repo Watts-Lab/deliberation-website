@@ -1,0 +1,95 @@
+// Styling for the contact section
+section#contact {
+  background-color: $gray-900;
+  background-image: url("#{$contact-image}");
+  background-repeat: no-repeat;
+  background-position: center;
+  .section-heading {
+    color: $white;
+  }
+  .form-group {
+    margin-bottom: 25px;
+    input,
+    textarea {
+      padding: 20px;
+    }
+    input.form-control {
+      height: auto;
+    }
+    textarea.form-control {
+      height: 248px;
+    }
+  }
+  .form-control:focus {
+    border-color: $primary;
+    box-shadow: none;
+  }
+  ::-webkit-input-placeholder {
+    font-weight: 700;
+    color: $gray-400;
+    @include heading-font;
+  }
+  :-moz-placeholder {
+    font-weight: 700;
+    color: $gray-400;
+    @include heading-font;
+  }
+  ::-moz-placeholder {
+    font-weight: 700;
+    color: $gray-400;
+    @include heading-font;
+  }
+  :-ms-input-placeholder {
+    font-weight: 700;
+    color: $gray-400;
+    @include heading-font;
+  }
+}
+
+.footer-logos {
+  height: 70px;
+  margin-bottom: 30px;
+}
+
+.footer-logos img {
+  height: 100%;
+}
+
+#contact-container {
+  padding: 10px 100px 10px 100px;
+}
+
+.footer-titles {
+  color: $gray-300;
+}
+
+.footer-smaill-bar {
+  background-color: #e2e2e2;
+  height: 2px;
+  width: 50px;
+}
+
+.footer-lists {
+  padding-top: 30px;
+  color: $gray-300;
+}
+
+.footer-input {
+  padding-left: 20px;
+  width: 300px;
+  height: 50px;
+  border-radius: 8px;
+}
+
+.footer-button {
+  width: 300px;
+  height: 50px;
+  border-radius: 8px;
+  border: 2px solid white;
+  margin-top: 15px;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
