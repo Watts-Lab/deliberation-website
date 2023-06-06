@@ -4,11 +4,11 @@
 # {{ site.data.navigation.nav.<var_name> | default: 'text' }}
 
 nav:
-  - title: "Services"
+  - title: "Tools"
     section: services
-  - title: "Portfolio"
+  - title: "Participants"
     section: portfolio
-  - title: "About"
+  - title: "Researchers"
     section: about
   - title: "Timeline"
     section: timeline
