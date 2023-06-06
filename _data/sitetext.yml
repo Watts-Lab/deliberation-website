@@ -74,16 +74,16 @@ clients:
   horizontal-scrolling: "" #"yes/no"
   list:
     - title: "envato"
-      url: https://github.com/raviriley/agency-jekyll-theme
+      url: https://github.com/Watts-Lab/deliberation-website
       logo: assets/img/clients/envato.jpg
     - title: "designmodo"
-      url: https://github.com/raviriley/agency-jekyll-theme
+      url: https://github.com/Watts-Lab/deliberation-website
       logo: assets/img/clients/designmodo.jpg
     - title: "themeforest"
-      url: https://github.com/raviriley/agency-jekyll-theme
+      url: https://github.com/Watts-Lab/deliberation-website
       logo: assets/img/clients/themeforest.jpg
     - title: "Creative Market"
-      url: https://github.com/raviriley/agency-jekyll-theme
+      url: https://github.com/Watts-Lab/deliberation-website
       logo: assets/img/clients/creative-market.jpg
 
 team:
@@ -147,7 +147,7 @@ footer:
       icon: "fab fa-facebook-f"
     - url: https://linkedin.com
       icon: "fab fa-linkedin-in"
-    - url: https://github.com/raviriley/agency-jekyll-theme
+    - url: https://github.com/Watts-Lab/deliberation-website
       icon: "fab fa-github"
     - url: https://instagram.com
       icon: "fab fa-instagram"

@@ -5,13 +5,11 @@
 
 nav:
   - title: "Tools"
-    section: services
+    section: tools
   - title: "Participants"
-    section: portfolio
+    section: participants
   - title: "Researchers"
-    section: about
-  - title: "Timeline"
-    section: timeline
+    section: researchers
   - title: "Team"
     section: team
   - title: "Contact"
