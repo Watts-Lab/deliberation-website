@@ -1,0 +1,29 @@
+<!-- Tools -->
+<section class="page-section" id="{{ site.data.sitetext.tools.section | default: "tools" }}">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.tools.title | default: "Tools" }}</h2>
+        {% if site.data.sitetext.tools.text %}
+    <h3 class="section-subheading text-muted">{{ site.data.sitetext.tools.text }}</h3>
+    {% endif %}
+      </div>
+    </div>
+  
+    <div class="row text-center">
+  {% for tool in site.data.sitetext.tools.list %}
+      <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+          <i class="fas fa-circle fa-stack-2x text-primary"></i>
+          <i class="{{ tool.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="service-heading">{{ tool.title | markdownify }}</h4>
+        {% if tool.desc %}<div class="text-muted">{{ tool.desc | markdownify }}</div>{% endif %}
+      </div>
+  {% endfor %}
+    </div>
+  
+  </div>
+</section>
+<!-- End Tools -->
