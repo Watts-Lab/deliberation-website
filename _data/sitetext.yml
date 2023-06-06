@@ -5,7 +5,7 @@
 # {{ site.data.sitetext.<var_name> | default: 'text' }}
 
 header:
-  title: Welcome to our Studio!
+  title: Welcome to Deliberation Lab!
   text: It's Nice To Meet You
   button: Tell Me More
   buttonlink: "#tools"
