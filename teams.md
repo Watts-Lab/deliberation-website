@@ -1,4 +1,9 @@
-# Our Team
+---
+layout: page
+title: Teams
+---
+
+# For Team
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu semper turpis. Maecenas tristique mauris eu quam tincidunt, sit amet ultrices ex finibus. Integer sollicitudin, dolor in lacinia semper, mauris dui feugiat elit, eu luctus sem mauris ac purus. Nam auctor, dolor sed consequat sollicitudin, lacus mauris iaculis erat, vitae interdum turpis tellus sit amet quam. Quisque varius nunc et elit ullamcorper, eu pellentesque ex finibus. Nam a ultricies mauris. Mauris maximus lectus id elit mollis, vitae efficitur lorem tincidunt. Sed auctor ligula in libero tempus feugiat. In vitae feugiat diam, sed congue ex. Nunc non eros sit amet lacus semper posuere. Fusce sodales varius metus, ut interdum lorem. Mauris nec lacus vel lacus finibus cursus.
 
