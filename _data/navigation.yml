@@ -1,0 +1,14 @@
+# Configuration: Add to _config.yml
+#
+# How to use:
+# {{ site.data.navigation.nav.<var_name> | default: 'text' }}
+
+nav:
+  - title: "Studies"
+    section: studies
+  - title: "Tools"
+    section: tools
+  - title: "Participants"
+    section: participants
+  - title: "Researchers"
+    section: researchers
