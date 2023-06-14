@@ -11,3 +11,6 @@ vendor/
 Gemfile.lock
 unused
 bootstrap-reference.html
+assets/img/.DS_Store
+assets/.DS_Store
+assets/.DS_Store
