@@ -11,6 +11,8 @@ The tools below are designed to help researchers collaborate to map that space.
 
 ## A high-throughput virtual laboratory
 
+![virtual lab screenshots](/assets/img/virtual_lab_screenshots.png){: width="100%"}
+
 The core technology developed to support this project is an online laboratory for conducting small-group deliberation experiments at scale. The virtual laboratory handles much of the overhead work that would normally require human facilitation, for example:
 
 - Recruiting participants and recording consent
@@ -95,10 +97,16 @@ Rather than relying on out-of-date statistical procedures, the virtual lab is se
 
 #### Continuous experimentation
 
+![continuous data collection](/assets/img/continuous_data_collection.png){: width="600"}
+
 Combining automated experimentation with out-of-sample prediction enables a new workflow for conducting experiments. In a traditional experimental paradigm, all data collection and statistical analyses are preregistered before collecting data in a single campaign. The tools we are developing allow us to move towards continuous data collection, such that the credibility of models trained on data collected up to this week is assessed on its ability to predict data taken next week.
 
 ### Future directions
 
-Under active development are interventions that monitor a discussion and use live feedback to help participants share time and surface opinions of less active members. The first of these will be a visual dial to show the amount of time teh participant has spent talking, encouraging equitable participation and discouraging dominance by certain individuals. Follow-on interventions may include reflections of sentiment or other behaviors.
+The tools described here are under active development and test. The diagram below identifies the major technical components of the virtual lab architecture and their state of development.
+
+![virtual lab architecture](/assets/img/virtual_lab_architecture.png){: width="500"}
+
+Also under development are interventions that monitor a discussion and use live feedback to help participants share time and surface opinions of less active members. The first of these will be a visual dial to show the amount of time teh participant has spent talking, encouraging equitable participation and discouraging dominance by certain individuals. Follow-on interventions may include reflections of sentiment or other behaviors.
 
 Also under development are tools that allow participants to collaborate on a shared work product, such as a canvas for co-writing a group response to a particular discussion topic.
