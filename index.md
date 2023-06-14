@@ -2,18 +2,34 @@
 layout: home
 ---
 
-# Deliberation Lab
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu semper turpis. Maecenas tristique mauris eu quam tincidunt, sit amet ultrices ex finibus. Integer sollicitudin, dolor in lacinia semper, mauris dui feugiat elit, eu luctus sem mauris ac purus. Nam auctor, dolor sed consequat sollicitudin, lacus mauris iaculis erat, vitae interdum turpis tellus sit amet quam. Quisque varius nunc et elit ullamcorper, eu pellentesque ex finibus. Nam a ultricies mauris. Mauris maximus lectus id elit mollis, vitae efficitur lorem tincidunt. Sed auctor ligula in libero tempus feugiat. In vitae feugiat diam, sed congue ex. Nunc non eros sit amet lacus semper posuere. Fusce sodales varius metus, ut interdum lorem. Mauris nec lacus vel lacus finibus cursus.
+The Deliberation Lab is an open-science intiative to rapidly advance scientific understanding of small group deliberation. It's goal is to support groups that come together to learn from one another, build mutual respect, and solve their collective problems.
 
-## Our goals
+To achieve this goal, the initiative is developing a set of tools for conducting deliberation experiments at scale, and coordinating a community of researchers to work together to build a cumulative understanding of deliberation outcomes.
 
-Suspendisse non est sit amet velit iaculis viverra non quis urna. Fusce vestibulum posuere fringilla. Morbi pellentesque risus metus, at convallis justo hendrerit at. Donec sodales erat sit amet magna scelerisque sagittis. Integer venenatis velit sed tellus ullamcorper ultrices. Nunc pharetra sem vel venenatis bibendum. Mauris id est nisl. Aenean lobortis ipsum in ligula congue sollicitudin. Nulla bibendum vestibulum mi, sed dapibus nisl ultrices non. Aliquam sagittis efficitur est, non tempus odio semper at. Sed sed sapien et enim viverra gravida nec ac augue. Donec congue efficitur nisl, in rhoncus elit bibendum at. Integer volutpat risus vitae elit malesuada facilisis. Mauris interdum cursus justo, at tristique metus interdum et.
+---
 
-## Project plan
+### Our Approach
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu semper turpis. Maecenas tristique mauris eu quam tincidunt, sit amet ultrices ex finibus. Integer sollicitudin, dolor in lacinia semper, mauris dui feugiat elit, eu luctus sem mauris ac purus. Nam auctor, dolor sed consequat sollicitudin, lacus mauris iaculis erat, vitae interdum turpis tellus sit amet quam. Quisque varius nunc et elit ullamcorper, eu pellentesque ex finibus. Nam a ultricies mauris. Mauris maximus lectus id elit mollis, vitae efficitur lorem tincidunt. Sed auctor ligula in libero tempus feugiat. In vitae feugiat diam, sed congue ex. Nunc non eros sit amet lacus semper posuere. Fusce sodales varius metus, ut interdum lorem. Mauris nec lacus vel lacus finibus cursus.
+![image](/assets/img/book_cloud.png){: style="float: left" width="300"}
 
-![boilerplate image](assets/img/philosopher.png){: width="450" }
+There is no one-size-fits-all strategy for improving the outcomes of small-group deliberation. Instead, the best techniques for achieving a deliberation's objective depend on the nature of the group (e.g. its size, gender balance, age range, etc.), the nature of the topic (e.g. its technicality, urgency, or moral character), and its purpose (e.g. to make a decision, raise issues, learn from one another, etc.).
 
-Suspendisse non est sit amet velit iaculis viverra non quis urna. Fusce vestibulum posuere fringilla. Morbi pellentesque risus metus, at convallis justo hendrerit at. Donec sodales erat sit amet magna scelerisque sagittis. Integer venenatis velit sed tellus ullamcorper ultrices. Nunc pharetra sem vel venenatis bibendum. Mauris id est nisl. Aenean lobortis ipsum in ligula congue sollicitudin. Nulla bibendum vestibulum mi, sed dapibus nisl ultrices non. Aliquam sagittis efficitur est, non tempus odio semper at. Sed sed sapien et enim viverra gravida nec ac augue. Donec congue efficitur nisl, in rhoncus elit bibendum at. Integer volutpat risus vitae elit malesuada facilisis. Mauris interdum cursus justo, at tristique metus interdum et.
+As a result, our approach emphasizes the context-dependence of a measured result, and seeks to map a landscape of deliberation features to show how differerent styles of intervention behave under different conditions. With this approach, we aim to provide contextualized recommendations to real-world deliberative groups that take their composition, topic, and task into account.
+
+---
+
+### Our Community
+
+The space of all possible deliberation experiments is far too large to explore alone. Instead, we hope to assemble a community of researchers to collaboratively study a variety of deliberative contexts and intervention strategies. Working together, these researchers will assemble a mutually-commensurable dataset that will advance the field of deliberation research.
+
+The initiative is led by the [Computational Social Science Lab](https://css.seas.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/).
+
+Our early collaborators include:
+
+|---
+| ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"}
+| ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"}
+
+---

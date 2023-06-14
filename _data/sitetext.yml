@@ -1,32 +1,27 @@
-
 # Configuration: Add to _config.yml
 #
 # How to use:
 # {{ site.data.sitetext.<var_name> | default: 'text' }}
 
 header:
-  title: Welcome to Deliberation Lab!
-  text: It's Nice To Meet You
-  button: Tell Me More
-  buttonlink: "#tools"
+  title: Deliberation Lab
+  text: An open-science intiative to rapidly advance scientific understanding of small group deliberation
 
 footer:
   legal: "Privacy Policy"
   social:
-    - url: https://twitter.com
-      icon: "fab fa-twitter"
-    - url: https://facebook.com
-      icon: "fab fa-facebook-f"
-    - url: https://linkedin.com
-      icon: "fab fa-linkedin-in"
     - url: https://github.com/Watts-Lab/deliberation-website
       icon: "fab fa-github"
-    - url: https://instagram.com
-      icon: "fab fa-instagram"
   logo:
-    - name: "Penn Engineering Logo"
-      path: "assets/img/logo_penn_engineering.png"
-      height: 60
+    - name: "CSS Lab Logo"
+      path: "assets/img/logo_css_white.png"
+      height: 50
+      url: "https://css.seas.upenn.edu/"
     - name: "Wharton Logo"
-      path: "assets/img/logo_wharton.png"
-      height: 60
+      path: "assets/img/logo_penn_white.png"
+      height: 45
+      url: "https://upenn.edu"
+    - name: "TWCF Logo"
+      path: "assets/img/logo_templeton_white.png"
+      height: 50
+      url: "https://www.templetonworldcharity.org/projects-database/30153"

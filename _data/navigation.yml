@@ -3,6 +3,10 @@
 # How to use:
 # {{ site.data.navigation.nav.<var_name> | default: 'text' }}
 
+# if there is no "section", will use the title as a ref on the page.
+#
+#
+
 nav:
   - title: "Studies"
     section: studies
