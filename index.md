@@ -28,4 +28,9 @@ The initiative is led by the [Computational Social Science Lab](https://css.seas
 
 Our early collaborators include:
 
+![image](/assets/img/logo_reading.gif){: height="80"}
+![image](/assets/img/logo_wharton.png){: height="80"}
+![image](/assets/img/logo_princeton.png){: height="80"}
+![image](/assets/img/logo_WUSL.png){: height="80"}
+
 ---
