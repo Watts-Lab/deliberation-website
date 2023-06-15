@@ -3,6 +3,8 @@ layout: page
 title: Studies
 ---
 
+# Studies
+
 These initial studies served as test cases for the design of the Deliberation Lab experimental platform. Data from each of these studies contributes to the individual research questions of their PIs, and also supports the development of a fully-documented, traceable, and mutually-commensurable community dataset.
 
 ---

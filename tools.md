@@ -3,6 +3,8 @@ layout: page
 title: Tools
 ---
 
+# Tools
+
 Every deliberation, whether in a lab or in the real world, can be described by a set of features such as the average age of the participants, the moral character of the topic, or the experience that the participants have with the problem they are discussing. We can think about these features as localizing a particular deliberation in a multidimensional space defined by these features. Deliberations that are similar in nature sit at similar points in the space, while those that are more distinct sit at a distance from one another.
 
 In order to understand how to support a particular deliberation, we need to know where it sits in the space, and how we can use information collected from past experiments to make predictions about that point in the space.
@@ -101,7 +103,7 @@ Rather than relying on out-of-date statistical procedures, the virtual lab is se
 
 Combining automated experimentation with out-of-sample prediction enables a new workflow for conducting experiments. In a traditional experimental paradigm, all data collection and statistical analyses are preregistered before collecting data in a single campaign. The tools we are developing allow us to move towards continuous data collection, such that the credibility of models trained on data collected up to this week is assessed on its ability to predict data taken next week.
 
-### Future directions
+## Future directions
 
 The tools described here are under active development and test. The diagram below identifies the major technical components of the virtual lab architecture and their state of development.
 

@@ -12,7 +12,9 @@ nav:
     section: studies
   - title: "Tools"
     section: tools
-  - title: "Participants"
-    section: participants
-  - title: "Researchers"
-    section: researchers
+  - title: "Collaboration"
+    section: collaboration
+  # - title: "Participants"
+  #   section: participants
+  # - title: "Researchers"
+  #   section: researchers

@@ -28,8 +28,4 @@ The initiative is led by the [Computational Social Science Lab](https://css.seas
 
 Our early collaborators include:
 
-|---
-| ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"}
-| ![image](/assets/img/book_cloud.png){: width="300"} | ![image](/assets/img/book_cloud.png){: width="300"}
-
 ---
