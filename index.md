@@ -26,11 +26,11 @@ The space of all possible deliberation experiments is far too large to explore a
 
 The initiative is led by the [Computational Social Science Lab](https://css.seas.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/).
 
-Our early collaborators include:
+Our early collaborators come from:
 
-![image](/assets/img/logo_reading.gif){: height="80"}
-![image](/assets/img/logo_wharton.png){: height="80"}
-![image](/assets/img/logo_princeton.png){: height="80"}
-![image](/assets/img/logo_WUSL.png){: height="80"}
+![image](/assets/img/logo_reading.gif){: height="60" style="padding-right:30px"}
+![image](/assets/img/logo_wharton.png){: height="60" style="padding-right:30px"}
+![image](/assets/img/logo_princeton.png){: height="60" style="padding-right:30px"}
+![image](/assets/img/logo_WUSL.png){: height="60" style="padding-right:30px"}
 
 ---
