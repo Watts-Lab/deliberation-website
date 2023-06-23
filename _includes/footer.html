@@ -1,16 +1,18 @@
 <!-- Footer -->
-<footer class="footer" id="footer" style="background-color: #011F5B">
+<footer class="footer" id="footer" style="background-color: #011f5b">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-4">
         {% for logo in site.data.sitetext.footer.logo %}
-          <div class="col-md-8 mb-4">
+        <div class="col-md-8 mb-4">
+          <a href="{{ logo.url }}" target="_blank">
             <img
               height="{{ logo.height | default: 52 }}"
               src="{{ logo.path }}"
               alt="{{ logo.name }}"
             />
-          </div>
+          </a>
+        </div>
         {% endfor %}
       </div>
       <!-- Social Media -->
@@ -32,20 +34,17 @@
         <ul class="list-inline quicklinks">
           <li class="list-inline-item">
             <a href="legal"
-              >{{ site.data.sitetext.footer.legal | default:
-              "Privacy Policy" }}</a
+              >{{ site.data.sitetext.footer.legal | default: "Privacy Policy"
+              }}</a
             >
           </li>
         </ul>
       </div>
     </div>
     <div class="row justify-content-center">
-      <a
-        class="copyright"
-        href="https://css.seas.upenn.edu"
-        target="_blank"
-      >
-        Copyright &copy; Computational Social Science Lab at Penn {{ 'now' | date: "%Y" }}</a
+      <a class="copyright" href="https://css.seas.upenn.edu" target="_blank">
+        Copyright &copy; Computational Social Science Lab at Penn {{ 'now' |
+        date: "%Y" }}</a
       >
     </div>
   </div>

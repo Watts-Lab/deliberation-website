@@ -16,14 +16,11 @@ remote_theme: raviriley/agency-jekyll-theme
 title: Deliberation Lab
 description: High-throughput experiments in small-group deliberation
 
-url    : "https://deliberation-lab.org" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://deliberation-lab.org" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
-email      : jameshou@seas.upenn.com #this is also the email contact forms will go to
-author     : Andrii Yanchynskyi and James Houghton
-logo:     #optional, defaults to site title
-  path: assets\img\logo_white.png
-  height: 48 #height in px, defaults to 52px
+email: jameshou@seas.upenn.com #this is also the email contact forms will go to
+author: Andrii Yanchynskyi and James Houghton
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 

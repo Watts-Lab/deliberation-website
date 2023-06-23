@@ -3,10 +3,29 @@ layout: page
 title: Studies
 ---
 
-# Can good listening be taught (quickly)?
+# Studies
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu semper turpis. Maecenas tristique mauris eu quam tincidunt, sit amet ultrices ex finibus. Integer sollicitudin, dolor in lacinia semper, mauris dui feugiat elit, eu luctus sem mauris ac purus. Nam auctor, dolor sed consequat sollicitudin, lacus mauris iaculis erat, vitae interdum turpis tellus sit amet quam. Quisque varius nunc et elit ullamcorper, eu pellentesque ex finibus. Nam a ultricies mauris. Mauris maximus lectus id elit mollis, vitae efficitur lorem tincidunt. Sed auctor ligula in libero tempus feugiat. In vitae feugiat diam, sed congue ex. Nunc non eros sit amet lacus semper posuere. Fusce sodales varius metus, ut interdum lorem. Mauris nec lacus vel lacus finibus cursus.
+These initial studies served as test cases for the design of the Deliberation Lab experimental platform. Data from each of these studies contributes to the individual research questions of their PIs, and also supports the development of a fully-documented, traceable, and mutually-commensurable community dataset.
 
-# Leaders: what are they good for?
+---
 
-Suspendisse non est sit amet velit iaculis viverra non quis urna. Fusce vestibulum posuere fringilla. Morbi pellentesque risus metus, at convallis justo hendrerit at. Donec sodales erat sit amet magna scelerisque sagittis. Integer venenatis velit sed tellus ullamcorper ultrices. Nunc pharetra sem vel venenatis bibendum. Mauris id est nisl. Aenean lobortis ipsum in ligula congue sollicitudin. Nulla bibendum vestibulum mi, sed dapibus nisl ultrices non. Aliquam sagittis efficitur est, non tempus odio semper at. Sed sed sapien et enim viverra gravida nec ac augue. Donec congue efficitur nisl, in rhoncus elit bibendum at. Integer volutpat risus vitae elit malesuada facilisis. Mauris interdum cursus justo, at tristique metus interdum et.
+#### Can good listening be taught (quickly)?
+
+![Listening](/assets/img/listen_1.jpg){: width="300" style="float: left; padding-right:10px"}
+A collaboration betweeen the University of Reading's [Netta Weinstein](https://www.reading.ac.uk/pcls/staff/netta-weinstein) and the Computational Social Science Lab's [James Houghton](https://www.jamesphoughton.com/), this study investigates the potential for short-format training to improve listening behaviors in one-on-one discussions. This research aims to uncover practical tools that can be used in contexts where a supportive and engaging environment can lead to more meaningful dialogue, fostering better understanding, empathy, and collaboration among people with diverse perspectives.
+
+---
+
+#### Is the leader a bad influence?
+
+![Leader](/assets/img/leader_1.jpg){: width="300" style="float: right; padding-left:10px"}
+The collaborative study led by Dean Knox's team at the University of Pennsylvania is focused on investigating the influence of assigning an individual as a group leader in small-group deliberations. This research project delves into the dynamics of persuasion and decision-making within groups. By exploring the effects of assigning a leader on factors such as influence, talk time distribution, and overall group dynamics, this study aims to shed light on the role of leadership in shaping deliberative outcomes. The findings from this study will enhance our understanding of how leadership dynamics impact group discussions and provide valuable insights for designing more effective and inclusive deliberative processes. This collaboration with Dean Knox's team enriches our research by bringing diverse perspectives and expertise, fostering a multidimensional understanding of the complex dynamics at play in small-group deliberation.
+
+---
+
+#### Am I talking too much?
+
+![Rock scale](/assets/img/balanced_rocks_1.png){: width="300" style="float: left; padding-right:10px"}
+Led by James Houghton and Duncan Watts at the Computational Social Science Lab, this study evaluates interventions for promoting balanced participation within small-group deliberations, such that each participant has an equal opportunity to contribute and be heard. By implementing various training, feedback, and discussion structuring interventions, we aim to foster an atmosphere that values and encourages the active participation of every individual. The study explores the effect that age and gender diversity have on baseline participation rates, and how these factors influence the effectiveness of different participation interventions.
+
+---
