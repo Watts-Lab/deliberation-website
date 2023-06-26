@@ -2,6 +2,8 @@
 .footer {
   padding: 25px 0;
   text-align: center;
+  bottom: 0;
+  position: static;
   span.copyright {
     font-size: 90%;
     color: $white;
