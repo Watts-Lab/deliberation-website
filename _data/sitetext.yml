@@ -8,10 +8,6 @@ header:
   text: An open-science intiative to rapidly advance scientific understanding of small group deliberation
 
 footer:
-  legal: "Privacy Policy"
-  social:
-    - url: https://github.com/Watts-Lab/deliberation-website
-      icon: "fab fa-github"
   logo:
     - name: "CSS Lab Logo"
       path: "assets/img/logo_css_white.png"
@@ -21,7 +17,3 @@ footer:
       path: "assets/img/logo_penn_white.png"
       height: 45
       url: "https://upenn.edu"
-    - name: "TWCF Logo"
-      path: "assets/img/logo_templeton_white.png"
-      height: 50
-      url: "https://www.templetonworldcharity.org/projects-database/30153"

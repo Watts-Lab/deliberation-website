@@ -22,7 +22,18 @@
     color: $white;
   }
 }
-
+.logo-container {
+  justify-content: center;
+  display: flex;
+  
+}
+.email {
+  font-size: 90%;
+  color: white;
+  line-height: 40px;
+  text-transform: none;
+  @include heading-font;
+}
 ul.social-buttons {
   margin-bottom: 0;
   li {
