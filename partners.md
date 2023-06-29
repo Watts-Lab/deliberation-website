@@ -5,6 +5,7 @@ title: Partners
 
 # Partners
 <br/>
+
 ## Researchers
 <br/>
 
@@ -54,9 +55,7 @@ title: Partners
 <br/>
 
 ##### [Templeton World Charity Foundation, Listening and Learning in a Polarized World](https://www.templetonworldcharity.org/LLPW){: style="color: #011f5b"}
-![Templeton](/assets/img/logo_templeton_white.png){: width="500" style="margin-top: 10px"}
-
-<br/>
+![Templeton](/assets/img/logo_templeton_white.png){: width="300" style="margin-top: 10px"}
 
 ##### [Wharton Behavioral Lab](https://wbl.wharton.upenn.edu/){: style="color: #011f5b"}
 <br/><br/>
