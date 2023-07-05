@@ -1,8 +1,8 @@
 <!-- Footer -->
 <footer class="footer" id="footer" style="background-color: #011f5b">
   <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-4">
+    <div class="row justify-content-center">
+      <div class="logo-container">
         {% for logo in site.data.sitetext.footer.logo %}
         <div class="col-md-8 mb-4">
           <a href="{{ logo.url }}" target="_blank">
@@ -15,31 +15,9 @@
         </div>
         {% endfor %}
       </div>
-      <!-- Social Media -->
-      <div class="col-md-4">
-        <ul class="list-inline social-buttons">
-          {% for link in site.data.sitetext.footer.social %}
-          <li class="list-inline-item">
-            {% if link.url %}
-            <a href="{{ link.url }}">
-              {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
-            </a>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- Legal -->
-      <div class="col-md-4">
-        <ul class="list-inline quicklinks">
-          <li class="list-inline-item">
-            <a href="legal"
-              >{{ site.data.sitetext.footer.legal | default: "Privacy Policy"
-              }}</a
-            >
-          </li>
-        </ul>
-      </div>
+    </div>
+    <div class="email"> 
+        Email: jameshou@wharton.upenn.edu
     </div>
     <div class="row justify-content-center">
       <a class="copyright" href="https://css.seas.upenn.edu" target="_blank">
