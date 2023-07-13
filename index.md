@@ -27,3 +27,9 @@ Consequently, we seek to create a map over the parameter space in which delibera
 The space of possible deliberation experiments is far too large for one research team to explore alone. Instead, we are assembling a community of researchers to collaboratively study a variety of deliberative contexts and intervention strategies. Working together, these researchers will assemble a mutually-commensurable dataset that will advance the field of deliberation research.
 
 ---
+
+### Current Progress
+
+The project is currently undergoing "alpha" testing by multiple research teams. At this stage, we are seeking input regarding the types of studies that other research teams would be interested in conducting using the platform. In the coming year, we will be expanding the infrastructure to enable numerous research teams to utilize the platform concurrently. If you wish to stay updated on our progress, please send an email to jameshou@wharton.upenn.edu.
+
+---
