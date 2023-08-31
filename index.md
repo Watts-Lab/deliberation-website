@@ -4,7 +4,7 @@ layout: home
 
 ---
 
-The Deliberation Lab is an open-science initiative to rapidly advance scientific understanding of small-group deliberation. It's goal is to support groups that come together to learn from one another, build mutual respect, and solve their collective problems.
+The Deliberation Lab is an open-science initiative to rapidly advance scientific understanding of small-group deliberation. Its goal is to support groups that come together to learn from one another, build mutual respect, and solve their collective problems.
 
 To achieve this goal, we are developing a set of tools for conducting deliberation experiments at scale, and coordinating a community of researchers to work together to build a cumulative understanding of deliberation outcomes.
 
