@@ -61,8 +61,8 @@ title: Partners
 
 ![ICBS](/assets/img/logo_ICBS.svg){: width="300" style="float: right; margin-top: 10px"}
 
-[Burint Bevis](https://www.imperial.ac.uk/people/b.bevis20)</br>
-[Mark Kennedy](https://www.imperial.ac.uk/people/mark.kennedy)</br>
+[Burint Bevis](https://www.imperial.ac.uk/people/b.bevis20) <br/>
+[Mark Kennedy](https://www.imperial.ac.uk/people/mark.kennedy) <br/>
 <br/><br/><br/>
 
 ---
@@ -72,7 +72,7 @@ title: Partners
 ![ICBS](/assets/img/logo_MIT_sloan.jpg){: width="300" style="float: right; margin-top: 10px"}
 
 [Jared Curhan](https://web.mit.edu/curhan/www/)
-</br><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ---
 
