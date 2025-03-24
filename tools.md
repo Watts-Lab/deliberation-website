@@ -103,9 +103,9 @@ Rather than relying on out-of-date statistical procedures, the virtual lab is se
 
 Combining automated experimentation with out-of-sample prediction enables a new workflow for conducting experiments. In a traditional experimental paradigm, all data collection and statistical analyses are preregistered before collecting data in a single campaign. The tools we are developing allow us to move towards continuous data collection, such that the credibility of models trained on data collected up to this week is assessed on its ability to predict data taken next week.
 
-## External dependencies
+## Infrastructure
 
-The Deliberation Lab is built on top of two external tools for orchestrating multiplayer real-time experiments and for supporting video-based communication between participants.
+The Deliberation Lab is built on top of two external tools for orchestrating multiplayer real-time experiments and supporting video-based communication between participants.
 
 #### Multiplayer experiments: Empirica
 
