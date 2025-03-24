@@ -76,6 +76,8 @@ title: Partners
 
 <br/><br/><br/>
 
+---
+
 ## Affiliated Projects
 
 <br/>
