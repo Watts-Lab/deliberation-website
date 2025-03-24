@@ -75,3 +75,13 @@ title: Partners
 <br/><br/>
 
 <br/><br/><br/>
+
+## Affiliated Projects
+
+<br/>
+
+##### [Empirica](https://empirica.ly/){: style="color: #011f5b"}
+
+
+<br/><br/><br/>
+
