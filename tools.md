@@ -103,6 +103,21 @@ Rather than relying on out-of-date statistical procedures, the virtual lab is se
 
 Combining automated experimentation with out-of-sample prediction enables a new workflow for conducting experiments. In a traditional experimental paradigm, all data collection and statistical analyses are preregistered before collecting data in a single campaign. The tools we are developing allow us to move towards continuous data collection, such that the credibility of models trained on data collected up to this week is assessed on its ability to predict data taken next week.
 
+## External dependencies
+
+The Deliberation Lab is built on top of two external tools for orchestrating multiplayer real-time experiments and for supporting video-based communication between participants.
+
+#### Multiplayer experiments: Empirica
+
+Our platform uses [Empirica](https://empirica.ly), an open-source web framework for running real-time multiplayer experiments in the browser. In the Deliberation Lab, Empirica manages coordination between participants’ web browsers and our central server, ensuring that everyone in a given group remains synchronized with one another and with the server as they progress through various stages.
+
+Empirica helps assign players to groups, delivers the appropriate stimuli to the right participants at the right time, and facilitates data collection. This infrastructure allows us to run tightly synchronized, multi-participant experiments without needing manage low-level real-time coordination of participants computers.
+
+#### Video communication: Daily.co
+
+To enable video-based discussions, we integrate [Daily.co](https://www.daily.co), a third-party provider of WebRTC-based video services. Daily provides low-latency video connections for participants and manages the recording and secure transmission of video data to our servers.
+
+
 ## Future directions
 
 The tools described here are under active development and test. The diagram below identifies the major technical components of the virtual lab architecture and their state of development.
